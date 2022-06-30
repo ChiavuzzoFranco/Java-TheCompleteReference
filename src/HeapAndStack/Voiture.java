@@ -8,7 +8,7 @@ public class Voiture {
         this.modele = modele ;
     }
 
-    public int acceleration() {
-        return this.vitesse *= 1.10;
-    }
+//    public int acceleration() {
+//        return this.vitesse *= 1.10;
+//    }
 }
