@@ -29,7 +29,7 @@ public class Voiture {
 			nbrVoiture++;
 			
 			System.out.println("Voiture Numéro : " + nbrVoiture);
-			System.out.println("Je roule à " +(vitesse * 0.95) + "km/h, après freinage d'urgence");
+			System.out.println("Je roule à " +(int)(vitesse * 0.95) + "km/h, après freinage d'urgence");
 			System.out.println("________________________________________________________");
 	
 	}
